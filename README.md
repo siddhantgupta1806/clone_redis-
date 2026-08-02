@@ -124,8 +124,3 @@ The project is organized into several main components:
 
 This project is based on concepts and structures inspired by the book "Build Your Own Redis with C/C++" by James Smith.
 
-## License
-
-This project is distributed under the terms of the repository license.
-
-This project is open source and available under the MIT License. See LICENSE file.
